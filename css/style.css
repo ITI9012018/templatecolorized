@@ -10,7 +10,8 @@
 
 	body
 	{
-		background: #1d1d1d url(images/overlay.png) repeat;
+		/*background: #1d1d1d url(images/overlay.png) repeat;*/
+		background-color: #000;
 	}
 
 	body,input,textarea,select
@@ -702,7 +703,7 @@
 			position: absolute;
 			top: 2em;
 			left: 0;
-			color: #FFF;
+			color: #000;
 		}
 		
 		#logo span
